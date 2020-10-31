@@ -12,7 +12,7 @@ The Main JAVA executable file is : Shaadi-com-QA/src/VerifyCommunityName/VerifyC
 JSON file consistin of URLs: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/URLs.json\
 Driver initialization file: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/DriverT.java\
 File to retrieve URLs: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/GetURLs.java\
-File setting all the xpaths: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/VarPaths.java\
+File setting all the xpaths: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/VarPaths.java
 
 The Main JAVA executable file should be run as TestNG.
 
