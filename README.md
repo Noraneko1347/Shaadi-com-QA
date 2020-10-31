@@ -6,3 +6,8 @@ The code is written in the JAVA language and the URLs are sent via JSON file. Th
 It is run on the FireFox browser.
 
 For this the Firefox browser exe file location must be set in the DriverT.java file under pathBinary variable
+
+The Main JAVA executable file is : Shaadi-com-QA/src/VerifyCommunityName/VerifyCommunityNameLogin.java
+JSON file consistin of URLs: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/URLs.json
+Driver initialization file: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/DriverT.java
+File to retrieve URLs: Shaadi-com-QA/src/VerifyCommunityName/BaseFiles/GetURLs.java
